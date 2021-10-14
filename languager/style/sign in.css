@@ -1,0 +1,38 @@
+#body
+{
+    background-color: lightskyblue;
+}
+
+#sibody
+{
+    background-color: royalblue;
+    height: 600px;
+}
+
+#p
+{
+    font-size: x-large;
+}
+
+#Un
+{
+    font-size: 50px;
+    height: 60px;
+    width: 400px;
+    margin-left: 30px;
+}
+
+#Pw
+{
+    font-size: 50px;
+    height: 60px;
+    width: 400px;
+    margin-left: 30px;
+}
+
+#bt
+{
+    margin-left: 250px;
+    font-size: large;
+    background-color: slategray;
+}
